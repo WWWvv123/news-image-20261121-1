@@ -1,0 +1,1 @@
+{"name":"news-image-20261121-1","version":"1.0.0","type":"module","license":"MIT","description":"Classic newspaper front page poster for 21 November 2026 world news","scripts":{"build-image":"python3 tools/make_image.py","start":"node main.ts"}}
